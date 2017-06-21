@@ -1,0 +1,92 @@
+{
+  "2017-06-20": {
+    "lastUpdate": "2017-06-20 00:34:36",
+    "stopsInTrip": [
+      {
+        "routeId": 10085,
+        "tripId": 21,
+        "stopId": 31270,
+        "stopSequence": 6,
+        "agencyId": 9,
+        "topologyVersionId": 326,
+        "tripActivationDate": "2017-04-21",
+        "stopActivationDate": "2017-06-13"
+      },
+      {
+        "routeId": 10410,
+        "tripId": 51,
+        "stopId": 32440,
+        "stopSequence": 3,
+        "agencyId": 8,
+        "topologyVersionId": 367,
+        "tripActivationDate": "2017-04-21",
+        "stopActivationDate": "2017-06-13"
+      },
+      {
+        "routeId": 10410,
+        "tripId": 101,
+        "stopId": 39340,
+        "stopSequence": 24,
+        "agencyId": 8,
+        "topologyVersionId": 367,
+        "tripActivationDate": "2017-04-21",
+        "stopActivationDate": "2017-06-13"
+      },
+      {
+        "routeId": 10410,
+        "tripId": 51,
+        "stopId": 32450,
+        "stopSequence": 4,
+        "agencyId": 8,
+        "topologyVersionId": 367,
+        "tripActivationDate": "2017-04-21",
+        "stopActivationDate": "2017-06-13"
+      }
+    ]
+  },
+  "2017-06-27": {
+    "lastUpdate": "2017-06-20 00:34:36",
+    "stopsInTrip": [
+      {
+        "routeId": 107,
+        "tripId": 72,
+        "stopId": 5607,
+        "stopSequence": 7,
+        "agencyId": 4,
+        "topologyVersionId": 361,
+        "tripActivationDate": "2017-04-21",
+        "stopActivationDate": "2017-06-13"
+      },
+      {
+        "routeId": 107,
+        "tripId": 72,
+        "stopId": 5608,
+        "stopSequence": 9,
+        "agencyId": 4,
+        "topologyVersionId": 361,
+        "tripActivationDate": "2017-04-21",
+        "stopActivationDate": "2017-06-13"
+      },
+      {
+        "routeId": 107,
+        "tripId": 72,
+        "stopId": 5609,
+        "stopSequence": 8,
+        "agencyId": 4,
+        "topologyVersionId": 361,
+        "tripActivationDate": "2017-04-21",
+        "stopActivationDate": "2017-06-13"
+      },
+      {
+        "routeId": 107,
+        "tripId": 72,
+        "stopId": 5606,
+        "stopSequence": 10,
+        "agencyId": 4,
+        "topologyVersionId": 361,
+        "tripActivationDate": "2017-04-21",
+        "stopActivationDate": "2017-06-13"
+      }
+    ]
+  }
+}
